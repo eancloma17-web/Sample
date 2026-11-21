@@ -1,0 +1,6 @@
+{
+  "name": "Butuan City TSAD Supplier Information System",
+  "description": "City Procurement Management Department digital portal for supplier registration, qualification, ISO 9001:2015 QMS accreditation, and master list monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
